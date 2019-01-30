@@ -1,5 +1,4 @@
-<script>
-function addition(p1, p2) {
-  return p1+p2;
+function addition(num1, num2) {
+  return Number(num1)+ Number(num2);
 }
 module.exports = addition;
