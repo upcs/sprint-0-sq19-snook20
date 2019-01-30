@@ -1,0 +1,19 @@
+{
+  "name": "sprint-0-sq19-snook20",
+  "version": "1.0.0",
+  "description": "Here is my Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-snook20.git"
+  },
+  "author": "Riley Snook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-snook20/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-snook20#readme"
+}
