@@ -6,5 +6,10 @@
 const sum = require('./functions');
 
 test('adds 4 + 2 to equal 6', () => {
-  expect(sum(4, 2)).toBe(3);
+  expect(sum(4, 2)).toBe(6);
+});
+
+
+test('adds -11 + 91 to equal 80', () => {
+  expect(sum(-11, 91)).toBe(80);
 });
